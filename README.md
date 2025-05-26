@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Systems Engineering student with a strong focus on full-stack development and a specialization in front-end. I am passionate about creating modern, intuitive, and responsive interfaces that enhance the user experience. I have experience in web design, integrating client- and server-side technologies, and knowledge of technological infrastructure and networks. I seek opportunities that allow me to continue learning, add value with innovative solutions, and grow professionally in the world of software development.
-
+I am a Systems Engineer with a strong focus on full-stack development and a specialization in front-end. I am passionate about creating modern, intuitive, and responsive interfaces that enhance the user experience. I have experience in web design, integrating client- and server-side technologies, and knowledge of technological infrastructure and networks. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samuenoc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-reyes-zelaya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuel000012@gmail.com) 
